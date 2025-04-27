@@ -1,4 +1,4 @@
-# 🚀 Gabriel Carson | Cloud Engineering | AI Integration | Infrastructure Automation
+# 🚀 Gabriel Carson | Cloud Engineering | AI Integration 
 
 Hi, I'm Gabriel!  
 I'm a Cloud Engineer Intern at Oak Ridge National Laboratory, passionate about building secure, scalable cloud solutions and integrating AI into real-world systems.
