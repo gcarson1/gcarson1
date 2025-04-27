@@ -14,13 +14,6 @@ I specialize in:
 
 ---
 
-# 🛠️ Current Projects
-- **ClassMate** – University course rating platform (Node.js backend, Azure SQL, Dockerized)
-- **Football Match Outcome Prediction** – ML model predicting football match outcomes using 150K+ samples, implementing PCA, FLD, and classification fusion
-- **GenAI Retail Assistant** – Full-stack AI-powered shopping assistant, integrating OpenAI APIs and Retrieval-Augmented Generation (RAG) on Azure infrastructure
-
----
-
 # 📢 Let's Connect!
 - [Portfolio Website](https://resume-site-puce.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/gabriel-carson-26b140259/)
