@@ -28,8 +28,6 @@ I specialize in:
 
 ---
 
-# 📈 GitHub Stats (Optional if you want fancy charts)
-```markdown
+# 📈 GitHub Stats
 ![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gcarson1&show_icons=true&theme=dark)
-```
-_(You can copy that last part if you want a dynamic GitHub stats card. Not mandatory but looks flashy.)_
+
