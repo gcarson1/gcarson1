@@ -12,9 +12,6 @@ I specialize in:
 
 🔎 I'm currently seeking opportunities to bring my expertise in cloud engineering, security, and AI integration to forward-thinking engineering teams.
 
----
-
-# Let's Connect!
 - [Portfolio Website](https://resume-site-puce.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/gabriel-carson-26b140259/)
 - [GitHub Projects](https://github.com/gcarson1)
