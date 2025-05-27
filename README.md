@@ -14,4 +14,3 @@ I specialize in:
 
 - [Portfolio Website](https://resume-site-puce.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/gabriel-carson-26b140259/)
-- [GitHub Projects](https://github.com/gcarson1)
