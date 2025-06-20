@@ -1,7 +1,7 @@
 # Gabriel Carson | Cloud Engineering
 
 Hi, I'm Gabriel!  
-I'm a Cloud Engineer Intern at Oak Ridge National Laboratory, passionate about building secure, scalable cloud solutions and integrating AI into real-world systems.
+I'm an apiring Cloud Engineer with professional experience as a Cloud Engineering Intern at Oak Ridge National Laboratory, passionate about building and automating secure, scalable cloud solutions and integrating AI into real-world systems.
 
 I specialize in:
 - ☁️ **Cloud Platforms:** Azure (Compute, Storage, Networking, Scalability)
