@@ -1,4 +1,4 @@
-# Gabriel Carson | Cloud Engineering
+# Gabriel Carson | Cloud + DevOps 
 
 Hi, I'm Gabriel!  
 I'm an apiring Cloud Engineer with professional experience as a Cloud Engineering Intern at Oak Ridge National Laboratory, passionate about building and automating secure, scalable cloud solutions and integrating AI into real-world systems.
